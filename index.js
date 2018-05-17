@@ -2,4 +2,8 @@ function add(a, b){
   return a + b
 }
 
-add(3+2)
+function multiply(a, b){
+  return a*b
+}
+
+function
